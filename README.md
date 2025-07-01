@@ -1,5 +1,6 @@
-🏴‍☠️ "I'm Bornil Mahmud—and I'll be the King of the Developers!"
-Full-Stack Adventurer | Bug Conqueror | Infinite Learning Mode 🍖💻
+# 🏴‍☠️ "I'm Bornil Mahmud—and I'll be the King of the Developers!"
+## Full-Stack Adventurer | Bug Conqueror | Infinite Learning Mode 🍖💻
+---
 "I don’t wanna conquer anything… I just believe that the developer with the most freedom in this world is the one who can build anything!"
 ### **Web Developer & Programming Enthusiast** 🌟  
 
