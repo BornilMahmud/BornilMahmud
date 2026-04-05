@@ -19,7 +19,8 @@
 [![](https://skillicons.dev/icons?i=c,cpp,py,pycharm,java,idea,vscode,js,html,firebase,supabase,css,mysql,postman,php,ps,au,pr,github,linux,windows,powershell,fastapi,django,spring,mongo,postgres,ts,express,react,vite,laravel&perline=8)]
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BornilMahmud&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=BornilMahmud&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=BornilMahmud&theme=dark&show_icons=true&layout=compact)
 
 ## 🌱 **Currently Learning**  
 - **Full-Stack Development** (MERN Stack)  
