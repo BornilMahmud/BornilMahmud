@@ -7,7 +7,7 @@
 
 🛠️ **Tech Stack:**  
    🌐 **Frontend:** HTML/CSS | JavaScript | React *(Gum-Gum UI Punch!)*  
-   ⚙️ **Backend:** Python | PHP 
+   ⚙️ **Backend:** Python | PHP | Node js
  
 
 ## 🚀 **Currently Working On**  
@@ -16,8 +16,7 @@
 - Exploring **Python** for automation and AI  
 
 ## 💻 Languages, Frameworks & Tools 
-[![](https://skillicons.dev/icons?i=c,cpp,py,pycharm,java,idea,vscode,js,html,firebase,supabase,css,mysql,api,php,ps,au,pr,github,linux,windows,powershell&perline=9)]
-
+[![](https://skillicons.dev/icons?i=c,cpp,py,pycharm,java,idea,vscode,js,html,firebase,supabase,css,mysql,api,php,ps,au,pr,github,linux,windows,powershell,fastapi,django,spring,mongo,postgres,ts,express,react,vite,laravel&perline=11)]
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BornilMahmud&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
