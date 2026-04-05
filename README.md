@@ -22,6 +22,12 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=BornilMahmud&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=BornilMahmud&theme=dark&show_icons=true&layout=compact)
 
+ ### 📊 My Coding Status
+
+![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=BornilMahmud&layout=compact&theme=dark&hide_border=false&include_all_commits=true)
+
+![GitHub Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=BornilMahmud&show_icons=true&theme=dark&count_private=true)
+
 ## 🌱 **Currently Learning**  
 - **Full-Stack Development** (MERN Stack)  
 - **Data Structures & Algorithms**  
