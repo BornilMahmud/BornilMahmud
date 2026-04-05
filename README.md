@@ -16,7 +16,7 @@
 - Exploring **Python** for automation and AI  
 
 ## 💻 Languages, Frameworks & Tools 
-[![](https://skillicons.dev/icons?i=c,cpp,py,pycharm,java,idea,vscode,js,html,css,mysql,php,ps,au,pr,github,linux,windows,apple,powershell&perline=9)](https://github.com/armanhossen-dev)
+[![](https://skillicons.dev/icons?i=c,cpp,py,pycharm,java,idea,vscode,js,html,firebase,supabase,css,mysql,api,php,ps,au,pr,github,linux,windows,powershell&perline=9)]
 
 
 ## 📊 GitHub Stats:
