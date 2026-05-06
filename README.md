@@ -195,23 +195,45 @@ Currently deepening my expertise in **MERN Stack**, **AI/ML fundamentals**, **ba
 
 ## &nbsp; Featured Projects
 
-<div align="center">
+<!-- ========================= FEATURED PROJECTS ========================= -->
+
+<h2 align="center">🚀 Featured Projects 🚀</h2>
+
+<p align="center">
 
 <a href="https://github.com/BornilMahmud/SQL">
-  <img align="center" src="https://gh-card.dev/repos/BornilMahmud/SQL.svg?fullname=&link_target=_blank" />
+  <img 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BornilMahmud&repo=SQL&theme=radical"
+  />
 </a>
-&nbsp;
+
 <a href="https://github.com/BornilMahmud/JavaScript">
-  <img align="center" src="https://gh-card.dev/repos/BornilMahmud/JavaScript.svg?fullname=&link_target=_blank" />
+  <img 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BornilMahmud&repo=JavaScript&theme=radical"
+  />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/BornilMahmud/BM-COMPILOR">
-  <img align="center" src="https://gh-card.dev/repos/BornilMahmud/BM-COMPILOR.svg?fullname=&link_target=_blank" />
+  <img 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BornilMahmud&repo=BM-COMPILOR&theme=radical"
+  />
 </a>
 
-</div>
+</p>
+
+<br/>
+
+<!-- ========================= TROPHIES ========================= -->
+
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=BornilMahmud&theme=radical&no-frame=true&no-bg=true&margin-w=15"
+  />
+</p>
 
 ---
 
