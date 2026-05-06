@@ -209,25 +209,13 @@ Currently deepening my expertise in **MERN Stack**, **AI/ML fundamentals**, **ba
 
 <p align="center">
 
-<a href="https://github.com/BornilMahmud/SQL">
-  <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BornilMahmud&repo=SQL&theme=radical"
-  />
-</a>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BornilMahmud&repo=SQL&theme=radical" />
 
-<a href="https://github.com/BornilMahmud/JavaScript">
-  <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BornilMahmud&repo=JavaScript&theme=radical"
-  />
-</a>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BornilMahmud&repo=JavaScript&theme=radical" />
 
-<br/><br/>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BornilMahmud&repo=BM-COMPILOR&theme=radical" />
 
-<a href="https://github.com/BornilMahmud/BM-COMPILOR">
-  <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BornilMahmud&repo=BM-COMPILOR&theme=radical"
-  />
-</a>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BornilMahmud&repo=math-tokenazaition&theme=radical" />
 
 </p>
 
