@@ -1,11 +1,18 @@
-<p align="center">
+<div align="center">
   <img 
     src="https://bornilmahmud.me/assets/photo-XBFleVXs.jpg"
     alt="Bornil Mahmud"
     width="220"
-    style="border-radius: 50%; border: 4px solid #00ffff;"
+    height="220"
+    style="
+      border-radius: 50%;
+      object-fit: cover;
+      border: 5px solid #00ffff;
+      padding: 4px;
+      box-shadow: 0 0 25px rgba(0,255,255,0.6);
+    "
   />
-</p>
+</div>
 
 ---
 
