@@ -188,17 +188,17 @@ Currently deepening my expertise in **MERN Stack**, **AI/ML fundamentals**, **ba
 <div align="center">
 
 <a href="https://github.com/BornilMahmud/SQL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BornilMahmud&repo=SQL&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9" />
+  <img align="center" src="https://gh-card.dev/repos/BornilMahmud/SQL.svg?fullname=&link_target=_blank" />
 </a>
 &nbsp;
 <a href="https://github.com/BornilMahmud/JavaScript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BornilMahmud&repo=JavaScript&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9" />
+  <img align="center" src="https://gh-card.dev/repos/BornilMahmud/JavaScript.svg?fullname=&link_target=_blank" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/BornilMahmud/BM-COMPILOR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BornilMahmud&repo=BM-COMPILOR&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9" />
+  <img align="center" src="https://gh-card.dev/repos/BornilMahmud/BM-COMPILOR.svg?fullname=&link_target=_blank" />
 </a>
 
 </div>
