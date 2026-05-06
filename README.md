@@ -1,8 +1,11 @@
-<div align="center">
-
-<img src=src="https://scontent.fdac177-2.fna.fbcdn.net/v/t39.30808-6/467974797_1892237614604882_4404187036410943013_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=1d70fc&_nc_eui2=AeGFIE4_GsZ0_niAJQPJv9I-SOxDtFSQAi5I7EO0VJACLvAS2VCOR2tPjpUNANKtwxLxkYky8mRtBU1IgsTUI_W2&_nc_ohc=O59_2p1XKs4Q7kNvwGF-Z_s&_nc_oc=AdojPg5ZdrDdwQ6pL-t6hC2DUFithOZVrOM1a3w5CceTMWiN9UZd1630v7MrgI7ZwYE&_nc_zt=23&_nc_ht=scontent.fdac177-2.fna&_nc_gid=_HclizE-jSy-XEjeiS68aQ&_nc_ss=7b2a8&oh=00_Af7NEIIIq2dQLVU66sct6_yBH9CDeb_l4bq0YEfb8oR2nQ&oe=6A007F26" />
-
-</div>
+<p align="center">
+  <img 
+    src="https://bornilmahmud.me/assets/photo-XBFleVXs.jpg"
+    alt="Bornil Mahmud"
+    width="220"
+    style="border-radius: 50%; border: 4px solid #00ffff;"
+  />
+</p>
 
 ---
 
