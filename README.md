@@ -155,9 +155,17 @@ Currently deepening my expertise in **MERN Stack**, **AI/ML fundamentals**, **ba
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BornilMahmud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" />
+<img 
+  height="180em" 
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=BornilMahmud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true&count_private=true" 
+/>
+
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BornilMahmud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=8" />
+
+<img 
+  height="180em" 
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BornilMahmud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=8" 
+/>
 
 </div>
 
